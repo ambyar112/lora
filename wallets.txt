@@ -1,0 +1,8 @@
+# Isi private key wallet di sini, satu per baris
+# Format: 0x + 64 karakter hex
+# Contoh:
+# 0xabc123def456...
+
+0xPRIVATE_KEY_WALLET_1
+0xPRIVATE_KEY_WALLET_2
+0xPRIVATE_KEY_WALLET_3
